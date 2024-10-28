@@ -1,0 +1,501 @@
+Customer_ID,Product_ID,Rating,Comment,Support_Interaction
+1,7,4,Decent but overpriced.,Issue not resolved
+2,20,1,"Fantastic product, will recommend to others.",Helpful staff
+3,15,2,Not satisfied with the quality.,Long wait time
+4,11,2,Good but not great.,Helpful staff
+5,8,4,Will buy again!,Resolved quickly
+6,7,1,Product arrived damaged.,Resolved quickly
+7,19,5,Arrived late.,Unresolved
+8,11,5,Decent but overpriced.,Unresolved
+9,11,2,Exceeded expectations!,Long wait time
+10,4,1,Terrible experience.,Issue not resolved
+11,8,2,Great product!,Helpful staff
+12,3,3,Good but not great.,Long wait time
+13,2,2,Will buy again!,Unresolved
+14,12,2,"Fantastic product, will recommend to others.",Helpful staff
+15,6,5,Good but not great.,Unresolved
+16,2,5,Decent but overpriced.,Helpful staff
+17,1,5,Good but not great.,Issue not resolved
+18,12,3,Exceeded expectations!,Long wait time
+19,12,5,Amazing value for the price!,Helpful staff
+20,17,1,Good but not great.,Resolved quickly
+21,10,4,Exceeded expectations!,Resolved quickly
+22,16,1,"Fast shipping, bad packaging.",Helpful staff
+23,15,1,Good but not great.,Helpful staff
+24,15,5,Decent but overpriced.,Helpful staff
+25,19,4,Great product!,Resolved quickly
+26,12,4,Customer service was very helpful.,Resolved quickly
+27,20,4,Arrived late.,Helpful staff
+28,3,3,Arrived late.,Unresolved
+29,5,5,Good but not great.,Unresolved
+30,19,4,Customer service was very helpful.,Issue not resolved
+31,7,3,Poor quality.,Long wait time
+32,9,2,"Fast shipping, bad packaging.",Unresolved
+33,7,2,Arrived late.,Resolved quickly
+34,18,3,"Fantastic product, will recommend to others.",Unresolved
+35,4,3,Great product!,Issue not resolved
+36,14,5,Item not as described.,Issue not resolved
+37,18,5,Arrived late.,Long wait time
+38,9,2,Highly recommend!,Unresolved
+39,2,4,"Fantastic product, will recommend to others.",Resolved quickly
+40,20,2,Not satisfied with the quality.,Resolved quickly
+41,15,4,Good but not great.,Helpful staff
+42,7,4,"Fantastic product, will recommend to others.",Resolved quickly
+43,12,5,Terrible experience.,Long wait time
+44,8,1,Arrived late.,Long wait time
+45,15,1,Could be better.,Resolved quickly
+46,3,3,Great product!,Resolved quickly
+47,14,5,"Fast shipping, bad packaging.",Helpful staff
+48,17,4,Decent but overpriced.,Resolved quickly
+49,4,1,Excellent service!,Helpful staff
+50,18,4,Not worth it.,Helpful staff
+51,8,1,Not worth it.,Resolved quickly
+52,4,1,Arrived late.,Issue not resolved
+53,2,1,Item not as described.,Issue not resolved
+54,6,5,Not satisfied with the quality.,Helpful staff
+55,10,2,Great product!,Resolved quickly
+56,4,4,"Fantastic product, will recommend to others.",Issue not resolved
+57,18,5,Decent but overpriced.,Resolved quickly
+58,12,5,"Fast shipping, bad packaging.",Resolved quickly
+59,2,5,Great product!,Resolved quickly
+60,10,5,Excellent service!,Unresolved
+61,4,5,"Fast shipping, bad packaging.",Resolved quickly
+62,14,3,Highly recommend!,Unresolved
+63,16,4,Loved it!,Helpful staff
+64,15,5,Excellent service!,Issue not resolved
+65,8,4,Arrived late.,Issue not resolved
+66,14,3,Great product!,Issue not resolved
+67,8,3,Highly recommend!,Issue not resolved
+68,16,4,"Fast shipping, bad packaging.",Issue not resolved
+69,13,1,Not satisfied with the quality.,Issue not resolved
+70,18,2,Excellent service!,Issue not resolved
+71,15,1,Item not as described.,Helpful staff
+72,13,1,Item not as described.,Resolved quickly
+73,9,1,Will buy again!,Long wait time
+74,15,5,Poor quality.,Unresolved
+75,13,3,Could be better.,Long wait time
+76,1,1,Exceeded expectations!,Long wait time
+77,7,3,Loved it!,Resolved quickly
+78,9,4,Item not as described.,Resolved quickly
+79,1,2,Poor quality.,Resolved quickly
+80,12,4,"Fantastic product, will recommend to others.",Issue not resolved
+81,8,4,Decent but overpriced.,Helpful staff
+82,11,5,Not worth it.,Issue not resolved
+83,19,2,Decent but overpriced.,Helpful staff
+84,17,4,Great product!,Helpful staff
+85,8,4,Arrived late.,Long wait time
+86,3,2,Poor quality.,Long wait time
+87,3,2,Arrived late.,Helpful staff
+88,1,4,Could be better.,Helpful staff
+89,5,2,"Fantastic product, will recommend to others.",Issue not resolved
+90,10,4,Not satisfied with the quality.,Issue not resolved
+91,7,4,Great product!,Long wait time
+92,9,5,Highly recommend!,Resolved quickly
+93,7,1,Loved it!,Helpful staff
+94,9,4,Exceeded expectations!,Issue not resolved
+95,8,3,Will buy again!,Long wait time
+96,12,1,Not worth it.,Issue not resolved
+97,2,1,Not satisfied with the quality.,Helpful staff
+98,1,1,Excellent service!,Helpful staff
+99,16,5,Product arrived damaged.,Unresolved
+100,5,4,Exceeded expectations!,Resolved quickly
+101,3,5,Loved it!,Unresolved
+102,12,4,Loved it!,Long wait time
+103,8,5,Terrible experience.,Issue not resolved
+104,3,5,Amazing value for the price!,Long wait time
+105,1,3,Not satisfied with the quality.,Helpful staff
+106,3,5,Product arrived damaged.,Unresolved
+107,5,2,Excellent service!,Unresolved
+108,15,3,Exceeded expectations!,Unresolved
+109,14,5,Product arrived damaged.,Long wait time
+110,3,1,Good but not great.,Helpful staff
+111,1,2,Not worth it.,Issue not resolved
+112,5,2,Item not as described.,Issue not resolved
+113,14,2,Good but not great.,Long wait time
+114,7,3,"Fantastic product, will recommend to others.",Unresolved
+115,9,5,Arrived late.,Resolved quickly
+116,15,5,Good but not great.,Long wait time
+117,15,1,Item not as described.,Long wait time
+118,10,1,Amazing value for the price!,Helpful staff
+119,13,2,"Fast shipping, bad packaging.",Issue not resolved
+120,19,1,Not satisfied with the quality.,Long wait time
+121,7,3,Customer service was very helpful.,Long wait time
+122,17,5,Decent but overpriced.,Unresolved
+123,20,2,Amazing value for the price!,Unresolved
+124,4,1,Will buy again!,Resolved quickly
+125,5,3,Item not as described.,Helpful staff
+126,7,3,Could be better.,Resolved quickly
+127,13,1,Customer service was very helpful.,Unresolved
+128,15,5,Not satisfied with the quality.,Issue not resolved
+129,11,1,Loved it!,Unresolved
+130,4,2,Will buy again!,Helpful staff
+131,13,1,Terrible experience.,Unresolved
+132,7,3,"Fantastic product, will recommend to others.",Helpful staff
+133,19,1,Not worth it.,Helpful staff
+134,2,5,Could be better.,Helpful staff
+135,10,4,Amazing value for the price!,Helpful staff
+136,13,1,Terrible experience.,Helpful staff
+137,6,5,Not satisfied with the quality.,Issue not resolved
+138,12,5,Good but not great.,Resolved quickly
+139,12,3,Loved it!,Long wait time
+140,20,5,Terrible experience.,Resolved quickly
+141,11,5,Product arrived damaged.,Helpful staff
+142,7,5,Not worth it.,Issue not resolved
+143,1,5,Terrible experience.,Unresolved
+144,1,2,"Fast shipping, bad packaging.",Issue not resolved
+145,20,2,Not satisfied with the quality.,Helpful staff
+146,13,3,Product arrived damaged.,Issue not resolved
+147,9,1,Customer service was very helpful.,Issue not resolved
+148,3,5,Decent but overpriced.,Helpful staff
+149,7,1,Not worth it.,Issue not resolved
+150,6,1,Customer service was very helpful.,Long wait time
+151,8,3,Good but not great.,Long wait time
+152,9,5,Item not as described.,Issue not resolved
+153,5,5,Not satisfied with the quality.,Unresolved
+154,1,4,Will buy again!,Helpful staff
+155,19,1,Great product!,Long wait time
+156,10,1,Arrived late.,Unresolved
+157,12,2,Could be better.,Issue not resolved
+158,15,4,Arrived late.,Unresolved
+159,9,2,Will buy again!,Resolved quickly
+160,20,2,"Fast shipping, bad packaging.",Long wait time
+161,17,2,Will buy again!,Issue not resolved
+162,17,3,Could be better.,Helpful staff
+163,20,3,Good but not great.,Issue not resolved
+164,12,2,Decent but overpriced.,Helpful staff
+165,7,4,"Fast shipping, bad packaging.",Issue not resolved
+166,2,1,Excellent service!,Unresolved
+167,3,4,Not satisfied with the quality.,Unresolved
+168,17,5,Highly recommend!,Unresolved
+169,5,3,Loved it!,Resolved quickly
+170,17,1,Great product!,Helpful staff
+171,17,1,Could be better.,Unresolved
+172,17,5,Highly recommend!,Resolved quickly
+173,2,5,Exceeded expectations!,Helpful staff
+174,2,2,Arrived late.,Issue not resolved
+175,5,3,Excellent service!,Resolved quickly
+176,1,3,Exceeded expectations!,Long wait time
+177,1,4,Will buy again!,Resolved quickly
+178,19,2,Good but not great.,Resolved quickly
+179,2,2,Customer service was very helpful.,Helpful staff
+180,12,2,Will buy again!,Issue not resolved
+181,6,2,Not satisfied with the quality.,Long wait time
+182,4,3,Amazing value for the price!,Unresolved
+183,11,3,Not satisfied with the quality.,Unresolved
+184,17,2,Amazing value for the price!,Resolved quickly
+185,6,4,Amazing value for the price!,Helpful staff
+186,5,1,"Fast shipping, bad packaging.",Helpful staff
+187,20,1,Good but not great.,Unresolved
+188,2,4,Great product!,Long wait time
+189,6,2,Will buy again!,Issue not resolved
+190,11,3,"Fast shipping, bad packaging.",Long wait time
+191,16,1,Not worth it.,Issue not resolved
+192,16,5,Decent but overpriced.,Unresolved
+193,1,5,Excellent service!,Issue not resolved
+194,9,4,Excellent service!,Helpful staff
+195,6,2,"Fantastic product, will recommend to others.",Resolved quickly
+196,16,1,Loved it!,Resolved quickly
+197,3,2,Product arrived damaged.,Unresolved
+198,20,1,Product arrived damaged.,Helpful staff
+199,4,4,Arrived late.,Long wait time
+200,19,4,Terrible experience.,Helpful staff
+201,3,5,Not satisfied with the quality.,Resolved quickly
+202,19,2,Product arrived damaged.,Resolved quickly
+203,20,5,Arrived late.,Helpful staff
+204,7,2,Loved it!,Helpful staff
+205,20,5,Product arrived damaged.,Resolved quickly
+206,9,3,Good but not great.,Long wait time
+207,1,3,Good but not great.,Unresolved
+208,8,3,Not worth it.,Unresolved
+209,7,3,Good but not great.,Helpful staff
+210,18,1,Highly recommend!,Unresolved
+211,8,3,Product arrived damaged.,Resolved quickly
+212,1,4,Poor quality.,Resolved quickly
+213,11,4,Arrived late.,Helpful staff
+214,18,1,"Fast shipping, bad packaging.",Helpful staff
+215,10,3,Good but not great.,Helpful staff
+216,3,3,Loved it!,Long wait time
+217,7,3,Poor quality.,Unresolved
+218,16,5,Terrible experience.,Helpful staff
+219,16,2,"Fast shipping, bad packaging.",Issue not resolved
+220,20,5,"Fantastic product, will recommend to others.",Issue not resolved
+221,17,2,Product arrived damaged.,Resolved quickly
+222,2,3,Highly recommend!,Unresolved
+223,1,3,Amazing value for the price!,Helpful staff
+224,16,5,Customer service was very helpful.,Issue not resolved
+225,12,5,Highly recommend!,Unresolved
+226,5,2,Not worth it.,Resolved quickly
+227,5,4,Poor quality.,Long wait time
+228,9,2,Decent but overpriced.,Unresolved
+229,9,5,Good but not great.,Unresolved
+230,3,5,Decent but overpriced.,Long wait time
+231,19,1,Item not as described.,Unresolved
+232,16,5,Highly recommend!,Resolved quickly
+233,16,1,Decent but overpriced.,Resolved quickly
+234,3,4,Amazing value for the price!,Long wait time
+235,20,2,Arrived late.,Helpful staff
+236,1,2,Poor quality.,Issue not resolved
+237,20,1,"Fast shipping, bad packaging.",Helpful staff
+238,11,2,"Fantastic product, will recommend to others.",Unresolved
+239,17,5,"Fantastic product, will recommend to others.",Issue not resolved
+240,8,3,Exceeded expectations!,Long wait time
+241,4,1,Decent but overpriced.,Long wait time
+242,6,2,Excellent service!,Issue not resolved
+243,8,1,"Fantastic product, will recommend to others.",Resolved quickly
+244,20,1,Not worth it.,Issue not resolved
+245,3,3,Decent but overpriced.,Unresolved
+246,16,5,Good but not great.,Resolved quickly
+247,3,1,Item not as described.,Long wait time
+248,18,2,Excellent service!,Issue not resolved
+249,14,4,Product arrived damaged.,Helpful staff
+250,18,1,Customer service was very helpful.,Helpful staff
+251,2,1,Not satisfied with the quality.,Unresolved
+252,3,3,Excellent service!,Helpful staff
+253,16,5,Loved it!,Issue not resolved
+254,9,4,Will buy again!,Issue not resolved
+255,4,2,"Fast shipping, bad packaging.",Helpful staff
+256,1,4,Product arrived damaged.,Issue not resolved
+257,4,2,Decent but overpriced.,Unresolved
+258,1,5,Highly recommend!,Resolved quickly
+259,14,2,Good but not great.,Unresolved
+260,16,3,Could be better.,Unresolved
+261,20,3,Customer service was very helpful.,Issue not resolved
+262,8,3,"Fantastic product, will recommend to others.",Resolved quickly
+263,7,3,Great product!,Issue not resolved
+264,3,4,Poor quality.,Long wait time
+265,17,5,Customer service was very helpful.,Issue not resolved
+266,1,2,Not worth it.,Issue not resolved
+267,16,2,Product arrived damaged.,Issue not resolved
+268,12,3,Not satisfied with the quality.,Resolved quickly
+269,19,3,Excellent service!,Issue not resolved
+270,14,1,Not worth it.,Resolved quickly
+271,6,5,Not satisfied with the quality.,Helpful staff
+272,6,4,Customer service was very helpful.,Long wait time
+273,13,2,Customer service was very helpful.,Resolved quickly
+274,19,1,"Fantastic product, will recommend to others.",Helpful staff
+275,8,1,Excellent service!,Resolved quickly
+276,2,2,Decent but overpriced.,Resolved quickly
+277,1,4,Item not as described.,Long wait time
+278,15,1,Exceeded expectations!,Unresolved
+279,1,1,Good but not great.,Unresolved
+280,5,5,Product arrived damaged.,Resolved quickly
+281,16,4,Poor quality.,Issue not resolved
+282,19,1,Product arrived damaged.,Helpful staff
+283,4,4,Highly recommend!,Issue not resolved
+284,3,2,Not worth it.,Issue not resolved
+285,17,3,Decent but overpriced.,Resolved quickly
+286,17,1,Exceeded expectations!,Resolved quickly
+287,12,5,Loved it!,Resolved quickly
+288,14,2,Great product!,Resolved quickly
+289,6,4,Good but not great.,Unresolved
+290,3,2,Excellent service!,Resolved quickly
+291,9,1,Customer service was very helpful.,Unresolved
+292,5,4,Item not as described.,Unresolved
+293,17,3,"Fantastic product, will recommend to others.",Resolved quickly
+294,14,2,Could be better.,Long wait time
+295,3,1,"Fantastic product, will recommend to others.",Helpful staff
+296,1,5,Loved it!,Issue not resolved
+297,20,4,Poor quality.,Unresolved
+298,1,2,Great product!,Helpful staff
+299,3,2,Item not as described.,Long wait time
+300,18,3,Highly recommend!,Issue not resolved
+301,10,3,Amazing value for the price!,Issue not resolved
+302,3,5,Highly recommend!,Unresolved
+303,8,5,Good but not great.,Resolved quickly
+304,14,1,Could be better.,Long wait time
+305,18,1,Product arrived damaged.,Unresolved
+306,15,5,Loved it!,Long wait time
+307,2,5,Loved it!,Resolved quickly
+308,10,4,Will buy again!,Resolved quickly
+309,2,3,Terrible experience.,Unresolved
+310,17,1,Decent but overpriced.,Resolved quickly
+311,8,3,Item not as described.,Helpful staff
+312,1,3,Will buy again!,Issue not resolved
+313,9,5,Customer service was very helpful.,Unresolved
+314,11,4,Not satisfied with the quality.,Long wait time
+315,16,2,Decent but overpriced.,Helpful staff
+316,7,4,Exceeded expectations!,Unresolved
+317,10,4,Could be better.,Resolved quickly
+318,3,3,"Fast shipping, bad packaging.",Resolved quickly
+319,18,4,Exceeded expectations!,Resolved quickly
+320,13,1,Arrived late.,Resolved quickly
+321,7,3,Customer service was very helpful.,Long wait time
+322,4,1,Item not as described.,Helpful staff
+323,13,2,Not worth it.,Issue not resolved
+324,20,3,Will buy again!,Long wait time
+325,1,2,Not satisfied with the quality.,Long wait time
+326,8,3,Amazing value for the price!,Issue not resolved
+327,14,5,Good but not great.,Issue not resolved
+328,16,4,Excellent service!,Resolved quickly
+329,14,5,Terrible experience.,Long wait time
+330,12,2,Loved it!,Unresolved
+331,19,4,Loved it!,Issue not resolved
+332,15,3,Highly recommend!,Issue not resolved
+333,2,4,Good but not great.,Helpful staff
+334,2,1,Amazing value for the price!,Unresolved
+335,19,4,Excellent service!,Unresolved
+336,17,1,Exceeded expectations!,Issue not resolved
+337,20,4,Good but not great.,Resolved quickly
+338,10,1,Not worth it.,Helpful staff
+339,6,2,Excellent service!,Unresolved
+340,15,5,"Fantastic product, will recommend to others.",Issue not resolved
+341,11,3,"Fantastic product, will recommend to others.",Unresolved
+342,5,4,Good but not great.,Helpful staff
+343,1,5,Excellent service!,Helpful staff
+344,8,3,Excellent service!,Long wait time
+345,12,3,Terrible experience.,Issue not resolved
+346,12,1,Customer service was very helpful.,Helpful staff
+347,5,2,Highly recommend!,Long wait time
+348,7,2,Amazing value for the price!,Long wait time
+349,4,5,Could be better.,Unresolved
+350,6,2,Item not as described.,Unresolved
+351,13,4,Loved it!,Long wait time
+352,20,2,Not satisfied with the quality.,Unresolved
+353,15,5,Will buy again!,Helpful staff
+354,3,2,Amazing value for the price!,Resolved quickly
+355,8,4,Excellent service!,Helpful staff
+356,20,1,Amazing value for the price!,Long wait time
+357,16,5,Excellent service!,Long wait time
+358,13,1,Not satisfied with the quality.,Helpful staff
+359,18,1,Product arrived damaged.,Unresolved
+360,10,1,Not worth it.,Unresolved
+361,19,3,Amazing value for the price!,Long wait time
+362,17,3,Highly recommend!,Issue not resolved
+363,19,1,"Fast shipping, bad packaging.",Unresolved
+364,5,5,Loved it!,Helpful staff
+365,9,4,Will buy again!,Unresolved
+366,12,4,Not satisfied with the quality.,Helpful staff
+367,1,2,Highly recommend!,Long wait time
+368,1,5,Terrible experience.,Unresolved
+369,15,3,"Fast shipping, bad packaging.",Helpful staff
+370,2,1,Loved it!,Long wait time
+371,16,2,Poor quality.,Issue not resolved
+372,8,4,"Fantastic product, will recommend to others.",Helpful staff
+373,13,3,Terrible experience.,Issue not resolved
+374,1,3,Loved it!,Issue not resolved
+375,16,1,Poor quality.,Resolved quickly
+376,7,4,Customer service was very helpful.,Unresolved
+377,5,5,Loved it!,Helpful staff
+378,3,3,Customer service was very helpful.,Issue not resolved
+379,12,1,Good but not great.,Resolved quickly
+380,16,5,"Fantastic product, will recommend to others.",Long wait time
+381,19,4,"Fast shipping, bad packaging.",Helpful staff
+382,5,3,Customer service was very helpful.,Issue not resolved
+383,14,5,Arrived late.,Unresolved
+384,5,5,Excellent service!,Resolved quickly
+385,15,5,"Fast shipping, bad packaging.",Issue not resolved
+386,17,3,Not satisfied with the quality.,Unresolved
+387,14,3,"Fast shipping, bad packaging.",Issue not resolved
+388,20,2,Customer service was very helpful.,Helpful staff
+389,5,4,Customer service was very helpful.,Helpful staff
+390,12,1,Great product!,Helpful staff
+391,16,5,Terrible experience.,Resolved quickly
+392,16,2,Arrived late.,Helpful staff
+393,7,1,Poor quality.,Unresolved
+394,4,2,"Fast shipping, bad packaging.",Issue not resolved
+395,1,3,Great product!,Long wait time
+396,5,5,Poor quality.,Unresolved
+397,10,1,Amazing value for the price!,Unresolved
+398,5,1,Customer service was very helpful.,Helpful staff
+399,4,1,Will buy again!,Resolved quickly
+400,2,1,Customer service was very helpful.,Issue not resolved
+401,20,1,Not worth it.,Resolved quickly
+402,10,2,Could be better.,Issue not resolved
+403,19,5,Terrible experience.,Issue not resolved
+404,1,3,Decent but overpriced.,Resolved quickly
+405,5,3,Loved it!,Unresolved
+406,13,3,Will buy again!,Issue not resolved
+407,4,3,Customer service was very helpful.,Resolved quickly
+408,16,2,Arrived late.,Issue not resolved
+409,16,4,Not worth it.,Long wait time
+410,2,5,Not worth it.,Unresolved
+411,17,1,Will buy again!,Helpful staff
+412,20,4,Decent but overpriced.,Issue not resolved
+413,12,3,"Fantastic product, will recommend to others.",Long wait time
+414,18,4,Could be better.,Helpful staff
+415,3,5,Not satisfied with the quality.,Helpful staff
+416,1,1,Item not as described.,Issue not resolved
+417,1,1,Customer service was very helpful.,Resolved quickly
+418,19,5,Product arrived damaged.,Issue not resolved
+419,11,5,Decent but overpriced.,Long wait time
+420,5,3,Not satisfied with the quality.,Helpful staff
+421,12,1,Customer service was very helpful.,Issue not resolved
+422,3,4,Item not as described.,Resolved quickly
+423,1,2,Good but not great.,Issue not resolved
+424,1,2,Amazing value for the price!,Unresolved
+425,8,5,Good but not great.,Resolved quickly
+426,10,3,"Fast shipping, bad packaging.",Long wait time
+427,11,2,Not satisfied with the quality.,Helpful staff
+428,12,1,Customer service was very helpful.,Issue not resolved
+429,13,5,Excellent service!,Resolved quickly
+430,12,4,Poor quality.,Unresolved
+431,14,5,Terrible experience.,Resolved quickly
+432,2,4,Arrived late.,Unresolved
+433,19,5,Decent but overpriced.,Long wait time
+434,18,5,Not worth it.,Helpful staff
+435,3,5,Amazing value for the price!,Long wait time
+436,17,4,Not satisfied with the quality.,Issue not resolved
+437,8,4,Highly recommend!,Resolved quickly
+438,10,5,Loved it!,Unresolved
+439,2,2,Could be better.,Unresolved
+440,19,3,Exceeded expectations!,Resolved quickly
+441,9,3,Could be better.,Resolved quickly
+442,7,3,"Fantastic product, will recommend to others.",Issue not resolved
+443,4,4,Could be better.,Long wait time
+444,18,4,Good but not great.,Unresolved
+445,13,2,Product arrived damaged.,Issue not resolved
+446,11,3,Good but not great.,Long wait time
+447,4,3,Not worth it.,Issue not resolved
+448,4,5,Great product!,Unresolved
+449,10,4,"Fantastic product, will recommend to others.",Resolved quickly
+450,5,3,"Fantastic product, will recommend to others.",Resolved quickly
+451,9,2,Item not as described.,Long wait time
+452,3,2,Highly recommend!,Helpful staff
+453,17,3,Product arrived damaged.,Long wait time
+454,3,4,Could be better.,Helpful staff
+455,16,2,Excellent service!,Issue not resolved
+456,4,5,Exceeded expectations!,Issue not resolved
+457,18,2,Product arrived damaged.,Unresolved
+458,17,1,Decent but overpriced.,Helpful staff
+459,7,1,Will buy again!,Unresolved
+460,5,4,Great product!,Resolved quickly
+461,12,3,Terrible experience.,Helpful staff
+462,17,4,Highly recommend!,Long wait time
+463,13,4,Highly recommend!,Resolved quickly
+464,3,4,Arrived late.,Resolved quickly
+465,9,4,Will buy again!,Long wait time
+466,17,5,Not satisfied with the quality.,Resolved quickly
+467,17,5,Item not as described.,Helpful staff
+468,20,2,Not satisfied with the quality.,Unresolved
+469,16,1,Could be better.,Resolved quickly
+470,13,4,Good but not great.,Helpful staff
+471,19,2,Excellent service!,Issue not resolved
+472,17,1,Customer service was very helpful.,Helpful staff
+473,4,3,Amazing value for the price!,Unresolved
+474,12,5,Decent but overpriced.,Helpful staff
+475,9,1,Highly recommend!,Long wait time
+476,19,3,Will buy again!,Unresolved
+477,12,1,Exceeded expectations!,Issue not resolved
+478,9,5,Not satisfied with the quality.,Long wait time
+479,7,5,Highly recommend!,Helpful staff
+480,14,2,Item not as described.,Unresolved
+481,20,4,Exceeded expectations!,Issue not resolved
+482,19,1,Will buy again!,Long wait time
+483,15,1,Excellent service!,Issue not resolved
+484,16,3,Good but not great.,Helpful staff
+485,5,5,Product arrived damaged.,Issue not resolved
+486,3,1,Highly recommend!,Resolved quickly
+487,12,5,Poor quality.,Long wait time
+488,20,1,Loved it!,Issue not resolved
+489,4,2,Exceeded expectations!,Helpful staff
+490,16,4,Terrible experience.,Helpful staff
+491,7,1,Arrived late.,Issue not resolved
+492,13,5,Loved it!,Helpful staff
+493,10,2,Excellent service!,Unresolved
+494,7,1,Great product!,Unresolved
+495,14,3,Terrible experience.,Unresolved
+496,5,4,Highly recommend!,Resolved quickly
+497,3,1,Not satisfied with the quality.,Issue not resolved
+498,11,2,Excellent service!,Resolved quickly
+499,11,3,Good but not great.,Helpful staff
+500,18,2,Product arrived damaged.,Resolved quickly
